@@ -66,7 +66,6 @@ Esta actividad ayudó a entender cómo funcionan las pruebas de prompts y cómo 
 
 También permitió observar cómo pequeños cambios en los prompts pueden modificar el comportamiento de la IA.
 
----
 
 # Conclusión
 
