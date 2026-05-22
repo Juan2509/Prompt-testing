@@ -4,7 +4,6 @@
 - Juan Rangel
 - Santiago Villamizar
 
----
 
 # Descripción
 
@@ -12,7 +11,6 @@ En esta actividad se realizó la configuración de Promptfoo junto con Gemini pa
 
 El objetivo fue analizar la calidad, claridad y consistencia de las respuestas generadas por la IA mediante diferentes pruebas automáticas.
 
----
 
 # Herramientas utilizadas
 
@@ -22,7 +20,6 @@ El objetivo fue analizar la calidad, claridad y consistencia de las respuestas g
 - Gemini API
 - Visual Studio Code
 
----
 
 # Prompts utilizados
 
@@ -33,7 +30,6 @@ Ejemplos:
 - Explicar temas académicos para personas sin conocimientos previos.
 - Responder preguntas como un tutor amigable usando ejemplos simples.
 
----
 
 # Assertions utilizadas
 
@@ -55,7 +51,6 @@ Se adjuntaron capturas de:
 - pruebas realizadas,
 - resultados PASS y FAIL.
 
----
 
 # Dificultades encontradas
 
@@ -64,7 +59,6 @@ Durante la actividad hubo problemas relacionados con:
 - sobrecarga del servicio,
 - errores durante algunos intentos de ejecución.
 
----
 
 # Aprendizajes
 
